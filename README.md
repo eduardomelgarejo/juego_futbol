@@ -36,6 +36,6 @@
 ## 👨‍💻 Créditos
 
 - **Nombre del juego**: CrazyGoal  
-- **Desarrollado por**: *Mathias Muñoz* *Eduardo Melgarejo*  
+- **Desarrollado por**: *Mathias Muñoz* - *Eduardo Melgarejo*  
 - **Tecnologías**: Unity, C#, TextMeshPro, AudioSource  
 - **Assets y Sonidos**: Recursos propios y libres de derechos
